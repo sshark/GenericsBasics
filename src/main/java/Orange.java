@@ -1,0 +1,1 @@
+class Orange extends Fruit {}

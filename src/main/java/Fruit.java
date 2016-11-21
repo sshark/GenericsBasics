@@ -1,0 +1,1 @@
+class Fruit extends Plant {}
